@@ -9,6 +9,9 @@ set :images_dir, 'assets/images'
 # Pretty URLs
 activate :directory_indexes
 
+# JavaScript
+activate :sprockets
+
 # Production
 configure :build do
   activate :minify_css

@@ -15,3 +15,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 gem "middleman-gh-pages"
 
+gem 'middleman-sprockets', '~> 4.1.0'

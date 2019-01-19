@@ -1,0 +1,48 @@
+<% content_for :title, "Robots" %>
+
+<% data.robots.each do |robot| %>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="page-header">
+        <h2>
+          <%= robot.name %>
+          <span class="pull-right"><%= robot.year %></span>
+        </h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-4">
+      <img src="<%= robot.image %>" class="img-thumbnail" />
+      <p></p>
+      <table class="table table-bordered">
+        <tr>
+          <th>Name</th>
+          <td><%= robot.name %></td>
+        </tr>
+        <tr>
+          <th>Year</th>
+          <td><%= robot.year %></td>
+        </tr>
+        <tr>
+          <th>Ranking</th>
+          <td><%= robot.ranking %></td>
+        </tr>
+      </table>
+    </div>
+    <div class="col-lg-8">
+      <b>The Robot:</b>
+      <p>
+        <%= robot.about %>
+      </p>
+      <br />
+      <b>The Challenge:</b>
+      <p>
+        <%= robot.challenge %>
+      </p>
+    </div>
+  </div>
+
+<% end %>

@@ -1,0 +1,45 @@
+<% content_for :title, "Sponsors" %>
+
+<div class="jumbotron">
+  <h4>Armada thanks it's wonderful sponsors for their vital and generous support. <a href="#howtosponser">Learn how to become a sponsor.</a></h4>
+</div>
+
+<div id="sponsor">
+
+  <% data.sponsors.each do |sponsor| %>
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="sponsorlogo">
+          <a href="<%= sponsor.url %>" target="_blank" title="<%= sponsor.name %>">
+            <img alt="<%= sponsor.name %>" class="center" src="<%= sponsor.image %>">
+          </a>
+        </div>
+      </div>
+
+      <div class="col-lg-7">
+        <div>
+          <a href="<%= sponsor.url %>" target="_blank" title="<%= sponsor.name %>"><%= sponsor.name %></a>
+        </div>
+        <hr>
+        <%= sponsor.about %>
+      </div>
+    </div>
+  <% end %>
+
+  <div class="jumbotron">
+    <h3 class="center" id="howtosponser">How To Sponsor Armada:</h3>
+
+    <h4>We are in continual need of sponsors to achieve our goals. If you would like to sponsor us, we are in need of many different types of support. Donations of materials, money, and time are all
+    greatly appreciated. If you would like additional information about our team or what we are able to provide in return, please contact us at <a class="fancylink" href=
+    "mailto:armada.robotics2508@gmail.com">armada.robotics2508@gmail.com</a>. If you would like to support us monetarily, checks can be sent to:</h4>
+
+    <address>
+      Stillwater Area High School<br>
+      Attn: Dennis Symalla (Robotics)<br>
+      5701 Stillwater Blvd N.<br>
+      Stillwater, MN 55082
+    </address>
+
+    <p>We are a non-profit organization and all donations are tax deductible.</p>
+  </div>
+</div>

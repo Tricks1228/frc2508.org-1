@@ -1,0 +1,202 @@
+- name: Robot 2019
+  year: 2019
+  image: 
+  record: 0-0-0
+  ranking: 0
+  about: >
+    Robot info
+  challenge: >
+   This is sparta
+
+- name: Robot 2018
+  year: 2018
+  image: 
+  record: 0-0-0
+  ranking: 0
+  about: >
+    Robot info
+  challenge: >
+   This is sparta
+
+- name: Robot 2017
+  year: 2017
+  image: 
+  record: 0-0-0
+  ranking: 0
+  about: >
+    Robot info
+  challenge: >
+   This is sparta
+
+- name: Robot 2016
+  year: 2016
+  image: 
+  record: 4-4-0
+  ranking: 25
+  about: >
+    (What our robot can do) 
+  challenge: >
+   FIRST STRONGHOLD is played by two alliances of three teams each. Alliances compete against each other
+   to breach their opponents’ defenses, known as outer works, and capture their tower. They score points by
+   crossing elements of their opponents’ outer works, scoring boulders in their opponents’ tower goals, and
+   surrounding and scaling their opponents’ tower itself.
+    <br /><br />
+    The game is played on a 27 ft. by 54 ft. field. Each alliance commands one tower, five defenses,
+    and a ‘secret passage’ which allows their robots to restock on ammunition, called boulders.
+    <br /><br />
+    Each FIRST STRONGHOLD match begins with a 15-second autonomous period in which robots operate
+    independently of human control. During this period, robots attempt to cross opposing defenses and score in
+    the opposing tower. 
+    
+- name: The Recycler
+  year: 2015
+  image: http://i.imgur.com/rnBLOHT.jpg
+  record: 6-3-0
+  ranking: 55
+  about: >
+    Featuring four wheel-drive mecanum wheels which enable movement in any direction in addition to accelerated rotation, this robot was
+    designed for agility and control. Totes were lifted via ropes and a pulley attached to 
+  challenge: >
+    RECYCLE RUSH is a recycling-themed game designed for the 2015 FIRST Robotics Competition (FRC). It is played by two Alliances of three
+    Teams each. Alliances compete simultaneously to score points by stacking Totes on Scoring Platforms, capping those stacks with Recycling
+    Containers, and properly disposing of Litter, represented by pool noodles, in designated locations. In keeping with the recycling theme of the
+    game, all scoring elements used are reusable or recyclable by teams in their home locations or by FIRST at the end of the season.
+    <br /><br />
+    The 27 ft. by 54 ft. playing Field is bisected by a small Step which may not be climbed on or crossed by Robots. Thus each Alliance competes
+    on their respective 26 ft. by 27 ft. side of the Field.
+    <br /><br />
+    Each RECYCLE RUSH Match begins with a 15-second Autonomous Period in which Robots operate independently of their drivers. During this
+    period, Robots attempt to move themselves, their Yellow Totes, and their Recycling Containers into the area between the scoring platforms,
+    called the Auto Zone. Additional points are awarded if the Yellow Totes are arranged in a single stack. Points for this period are shown in Table
+    1-1.
+    
+- name: The Sniper
+  year: 2014
+  image: /assets/images/robots/2014.jpg
+  about: >
+    This picks rolls in a blue ball and shoots it places.
+  record: 7-4-1
+  ranking: 8
+  challenge: >
+    Aerial Assist is played by two competing Alliances of three robots each on a flat 25’ x 54’ foot field, straddled by a 
+    truss suspended just over five feet above the floor. The objective is to score as many balls in goals as possible during 
+    a two (2)-minute and 30-second match. The more Alliances score their ball in their goals, and the more they work together
+     to do it, the more points their Alliance receives.
+    <br /><br />
+    The match begins with one 10-second Autonomous Period in which robots operate without the control of a driver.
+    Each robot may begin with a ball and attempt to score it in a goal. Alliances earn bonus points for scoring balls in this mode.
+    Additionally, each high/low pair of goals will be designated “hot” for five seconds, but the order of which side is first 
+    is randomized. For each ball scored in a “hot” goal, the Alliance earns additional bonus points.
+    <br /><br />
+    For the rest of the match, drivers remotely control robots from behind a protective wall. Once all balls 
+    in autonomous are scored, only one ball is re-entered in to play, and the Alliances must cycle a single ball as many times as
+    possible for the remainder of the match. With the single ball, they try to maximize their points earned by throwing balls 
+    over the truss, catching balls launched over the truss, and scoring in the high and low goals on the far side of the field.
+    Alliances receive large bonuses for “assists,” which are earned for each robot that has possession of the ball in a zone as
+    the ball moves down the field. 
+    
+- name: The Frisbro
+  year: 2013
+  image: /assets/images/robots/2013.jpg
+  about: >
+    (Something cool about this robot!)
+  record: 4-4-0
+  ranking: 27
+  challenge: >
+    ULTIMATE ASCENT is played by two competing alliances on a flat, 27 x 54 ft field. Each alliance consists of three
+    robots. They compete to score as many discs into their goals as they can during a two (2)-minute and fifteen
+    (15)-second match. The higher the goal in which the disc is scored, the more points the alliance receives.
+    <br /><br />
+    The match begins with a fifteen (15)-second Autonomous Period in which robots operate independently of driver
+    inputs. Discs scored during this period are worth extra points. For the remainder of the match, drivers control robots
+    and try to maximize their alliance score by scoring as many goals as possible.
+    <br /><br />
+    The match ends with robots attempting to climb on pyramids located near the middle of the field. The robot earns
+    points based on how high it climbs. 
+
+- name: The Rebounder
+  year: 2012
+  image: /assets/images/robots/2012.jpg
+  about: >
+    (This shoots basketballs.)
+  record: 9-4-0
+  ranking: 3
+  challenge: >
+    Rebound Rumble is played by two competing Alliances on a flat, 27 x 54 foot field. Each
+    Alliance consists of three robots. They compete to score as many basketballs into their hoops
+    as they can during a 2 minute and 15 second match. The higher the hoop in which the
+    basketball is scored, the more points the Alliance receives.
+    <br /><br />
+    The match begins with a 15-second Hybrid Period in which robots operate independently of
+    driver inputs. During this Hybrid Period, one robot on each Alliance may be controlled using a
+    Microsoft Kinect. Baskets scored during this period are worth extra points. For the remainder of
+    the match, drivers control robots and try to maximize their Alliance score by scoring as many
+    baskets as possible.
+    <br /><br />
+    The match ends with robots attempting to balance on bridges located at the middle of the field.
+    In Qualification Matches, a robot from each Alliance will also try to balance on the white
+    Coopertition™ bridge to score additional ranking points for each Alliance.
+
+- name: The Groover
+  year: 2011
+  image: /assets/images/robots/2011.jpg
+  about: >
+    (Puts triangles on objects.)
+  record: 5-4-0
+  ranking: 26
+  challenge: >
+    LOGO MOTION incorporated the FIRST logo as game pieces. Each Alliance, comprised of three FIRST teams, must hang as many of the logo game pieces (inflated trianges, circles, and squares) on the scoring grids located on each end of the field as possible.
+    <br /><br />
+    The higher a game piece is hung on the grid, the more points the alliance receives.  Any logo piece hung on the same peg as an Ubertube receives double points. If the logo pieces are assembled in the order of the FIRST logo (triangle, circle, then square) the points for the row are doubled.
+    <br /><br />
+    Each match lasts for 2 minutes and 15 seconds, beginning with a 15-second “autonomous period” in which the robot functions on its own using instructions programmed by the team.  In order to receive extra points, it must hang Ubertubes.  Then it is time for the drivers to take control during the “teleoperated period” which lasts until the end of the game.
+    <br /><br />
+    At the end of the match, the robots deploy separate minibots which must race to the top of a vertical pole, triggering a sensor and earning the alliance additional bonus points.  The first minibot to reach the top receives 30 points and the remaining bots receive 20, 15, and 10 points for the last minibot.
+
+- name: Robot 2010   
+  year: 2010
+  image: 
+  about: >
+    (Info about robot)
+  record: 3-4-3
+  ranking: 50
+  challenge: >
+    ROBOTS play Breakaway on a 27 by 54-foot rectangular field known as the FIELD. The FIELD is
+    bordered by a set of guardrails and ALLIANCE WALLS. During the game matches, the ROBOTS
+    are controlled from ALLIANCE STATIONS located outside the ends of the FIELD. These
+    rectangular zones consist of three team PLAYER STATIONS that provide connectivity between the
+    controls used by the ROBOT operators and the ARENA. GOALS are located at the corners of the
+    FIELD, and extend behind the ALLIANCE WALL and adjacent to the PLAYER STATIONS. 
+    <br /><br />
+    
+- name: Robot 2009
+  year: 2009
+  image: 
+  about: >
+    (info about our robot)
+  record: 3-6-0
+  ranking: 39
+  challenge: >
+    LOGO MOTION incorporated the FIRST logo as game pieces. Each Alliance, comprised of three FIRST teams, must hang as many of the logo game pieces (inflated trianges, circles, and squares) on the scoring grids located on each end of the field as possible.
+    <br /><br />
+    The higher a game piece is hung on the grid, the more points the alliance receives.  Any logo piece hung on the same peg as an Ubertube receives double points. If the logo pieces are assembled in the order of the FIRST logo (triangle, circle, then square) the points for the row are doubled.
+    <br /><br />
+    Each match lasts for 2 minutes and 15 seconds, beginning with a 15-second “autonomous period” in which the robot functions on its own using instructions programmed by the team.  In order to receive extra points, it must hang Ubertubes.  Then it is time for the drivers to take control during the “teleoperated period” which lasts until the end of the game.
+    <br /><br />
+    At the end of the match, the robots deploy separate minibots which must race to the top of a vertical pole, triggering a sensor and earning the alliance additional bonus points.  The first minibot to reach the top receives 30 points and the remaining bots receive 20, 15, and 10 points for the last minibot.
+
+- name: Robot 2008
+  year: 2008
+  image:  
+  about: >
+    (Info about our robot)
+  record: 4-5-0
+  ranking: 31
+  challenge: >
+    LOGO MOTION incorporated the FIRST logo as game pieces. Each Alliance, comprised of three FIRST teams, must hang as many of the logo game pieces (inflated trianges, circles, and squares) on the scoring grids located on each end of the field as possible.
+    <br /><br />
+    The higher a game piece is hung on the grid, the more points the alliance receives.  Any logo piece hung on the same peg as an Ubertube receives double points. If the logo pieces are assembled in the order of the FIRST logo (triangle, circle, then square) the points for the row are doubled.
+    <br /><br />
+    Each match lasts for 2 minutes and 15 seconds, beginning with a 15-second “autonomous period” in which the robot functions on its own using instructions programmed by the team.  In order to receive extra points, it must hang Ubertubes.  Then it is time for the drivers to take control during the “teleoperated period” which lasts until the end of the game.
+    <br /><br />
+    At the end of the match, the robots deploy separate minibots which must race to the top of a vertical pole, triggering a sensor and earning the alliance additional bonus points.  The first minibot to reach the top receives 30 points and the remaining bots receive 20, 15, and 10 points for the last minibot. 

@@ -1,0 +1,77 @@
+- name: 3M
+  url: http://www.3m.com
+  image: /assets/images/brands/3MLogo.png
+  about: >
+    The 3M Company, is a United States multinational conglomerate corporation based in 
+    Maplewood, Minnesota, United States. 3M has operations in more than 65 countries – 
+    29 international companies, 3M India is the only public company other than the parent company. 
+    3M products are available for purchase through distributors and retailers in more than 200 countries 
+    and/or colonies, and many 3M products are available online directly from the company.
+
+- name: Stillwater Glass
+  url: https://plus.google.com/117404515836873962817/about
+  image: /assets/images/brands/StillwaterGlass.png
+  about: >
+    Stillwater Glass replaces broken glass in automotive vehicles, homes, and business locations. 
+    They repair screens and are an authorized Anderson Windows service representative
+
+- name: Stillwater Printing
+  url: http://www.stillwaterprinting.com
+  image: /assets/images/brands/StillwaterPrintingLogo.png
+  about: >
+    Stillwater Printing is a company that combines quality printing and creative commercial 
+    design to provide the best support servicecs possible to its clients. Stillwater Printing Company 
+    provides a wide variety of products, from sales flyers to logo design, all to provide the best solution 
+    to your design needs.
+
+- name: Partnership Plan
+  url: http://www.partnershipplan.org/
+  image: /assets/images/brands/PartnershipPlanLogo.png
+  about: >
+    The Partnership Plan is a non-profit organization that strives to enhance the educational 
+    experience of students in the Stillwater Area.
+
+- name: Techified
+  url: http://www.techified.net/
+  image: /assets/images/brands/Techified.png
+  about: >
+    Techified is a Minnesota company that develops customer server software and websites for small and medium businesses.
+
+- name: Lake Elmo Repair
+  url: http://www.lakeelmoautomotiverepair.com/
+  image: /assets/images/brands/LakeElmoRepair.jpg
+  about: >
+    Voted "Best Automotive Service Shop" on Angie's List three years in a row, Lake Elmo Repair 
+    provides honest and quality auto repair services to its clients. For fast and affordible 
+    automotive repair, one can find Lake Elmo Repair in Lake Elmo, Minnesota.
+
+- name: Nepsis Capital Management
+  url: http://www.nepsiscapital.com/
+  image: /assets/images/brands/nepsis_logo.jpg
+  about: >
+    Nepsis Capital Management is a financial investment advisory firm. It is located in 
+    Minneapolis, MN. They strive for clarity in their money management techniques.
+
+- name: Polaris
+  url: http://www.polaris.com/en-us/home.aspx
+  image: /assets/images/brands/polaris_logo.jpg
+  about: >
+    Polaris is an American manufacturer of snowmobiles, ATVs, and neighborhood electric vehicles, 
+    with a firm belief in the ethics and value of their employees. Polaris endeavors to manufacture 
+    great products by working with integrity, innovation, passion for excellence, focus on customers, 
+    and other commendable company values.
+
+- name: United Hardware
+  url: https://unitedhardware.com/Default.aspx
+  image: /assets/images/brands/hardware_logo.jpg
+  about: >
+    United Hardware is a distributing company located in Plymoth, MN. They supply hardware items to about 
+    610 businesses. Most of their supplies goes Hardware Hank stores, which is owned by United Hardware.
+
+- name: Vistatek
+  url: http://www.vistatek.com/
+  image: /assets/images/brands/VistaTek_logo.jpg
+  about: >
+    VistaTek is a family-owned manufacturing company located in Stillwater, MN. The company’s state-of-the-art 
+    software and in-house technologies allow it to efficiently assist customers with small to large projects. 
+    Furthermore, VistaTek’s expert staff help customers get their products to the market as quickly and cost-efficiently as possible.

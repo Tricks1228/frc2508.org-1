@@ -1,4 +1,4 @@
-- name: Robot 2019
+- name: (TBD)
   year: 2019
   image: 
   record: 0-0-0
@@ -8,7 +8,7 @@
   challenge: >
    This is sparta
 
-- name: Robot 2018
+- name: Phineas
   year: 2018
   image: 
   record: 0-0-0
@@ -18,7 +18,7 @@
   challenge: >
    This is sparta
 
-- name: Robot 2017
+- name: The Felix
   year: 2017
   image: 
   record: 0-0-0
@@ -28,7 +28,7 @@
   challenge: >
    This is sparta
 
-- name: Robot 2016
+- name: The Rook
   year: 2016
   image: 
   record: 4-4-0

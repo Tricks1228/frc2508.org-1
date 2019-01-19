@@ -3,17 +3,17 @@ Armada Robotics on Middleman
 
 ### Setup
 
-1. Install Ruby - http://rubyinstaller.org/
-2. Clone this repository onto your computer.
+1. Install Ruby (use http://rubyinstaller.org for Windows)
+2. Clone this repository.
 3. Navigate to the root directory of this repository in a command prompt.
-4. Type `bundle install` (you might need `gem install bundle` first)
+4. Type `bundle install` (you may need `gem install bundle` first)
 
-### Testing
+### Run Website Locally
 
-1. Type `middleman server`
-2. In your favorite browser go to `localhost:4567`
+1. Use `middleman server`
+2. In your favorite browser go to `https://localhost:4567`
 
 ### Deploying
 
-1. Commit your changes with `git`
-2. Use `rake build` and then `rake publish` to deploy to `frc2508.org`
+1. Commit your changes with `git commit`
+2. Use `rake publish` to deploy changes to `frc2508.org`

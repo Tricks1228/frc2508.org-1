@@ -1,7 +1,7 @@
 <% content_for :title, "Robots" %>
 
 <% data.robots.each do |robot| %>
-
+  <% next if robot.hidden.present? && robot.hidden %>
   <div class="row">
     <div class="col-lg-12">
       <div class="page-header">
@@ -15,7 +15,9 @@
 
   <div class="row">
     <div class="col-lg-4">
-      <img src="<%= robot.image %>" class="img-thumbnail" />
+      <% if robot.image.present? %>
+        <img src="<%= robot.image %>" class="img-thumbnail" />
+      <% end %>
       <p></p>
       <table class="table table-bordered">
         <tr>
@@ -26,14 +28,18 @@
           <th>Year</th>
           <td><%= robot.year %></td>
         </tr>
-        <tr>
-          <th>Ranking</th>
-          <td><%= robot.ranking %></td>
-        </tr>
-        <tr>
-          <th>Record</th>
-          <td><%= robot.record %></td>
-        </tr>
+        <% if robot.ranking.present? %>
+          <tr>
+            <th>Ranking</th>
+            <td><%= robot.ranking %></td>
+          </tr>
+        <% end %>
+        <% if robot.record.present? %>
+          <tr>
+            <th>Record</th>
+            <td><%= robot.record %></td>
+          </tr>
+        <% end %>
       </table>
     </div>
     <div class="col-lg-8">

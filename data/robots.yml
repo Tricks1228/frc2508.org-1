@@ -10,7 +10,7 @@
 
 - name: Phineas
   year: 2018
-  image: 
+  image: /assets/images/robots/2018.jpg
   record: 5-4-0
   ranking: 24
   about: >
@@ -20,7 +20,7 @@
 
 - name: The Felix
   year: 2017
-  image: 
+  image: /assets/images/robots/2017.jpg
   record: 3-5-0
   ranking: 43
   about: >
@@ -30,7 +30,7 @@
 
 - name: The Rook
   year: 2016
-  image: 
+  image: /assets/images/robots/2016.jpg
   record: 4-4-0
   ranking: 25
   about: >

@@ -1,5 +1,6 @@
-# frc2508.com
-Armada Robotics on Middleman
+# frc2508.org
+
+The official Armada Robotics 2508 website.
 
 ### Setup
 

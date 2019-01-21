@@ -5,9 +5,7 @@
   record: TBD (10,000 Lakes), TBD (Great Northern)
   ranking: TBD (10,000 Lakes), TBD (Great Northern)
   about: >
-    (TBD)
   challenge: >
-    (TBD)
 
 - name: Phineas
   year: 2018
@@ -15,9 +13,7 @@
   record: 5-4-0
   ranking: 24
   about: >
-    Robot info
-  challenge: >
-   This is sparta
+  challenge: >  
 
 - name: The Felix
   year: 2017
@@ -25,9 +21,7 @@
   record: 3-5-0
   ranking: 43
   about: >
-    Robot info
   challenge: >
-   This is sparta
 
 - name: The Rook
   year: 2016
@@ -35,12 +29,12 @@
   record: 4-4-0
   ranking: 25
   about: >
-    (What our robot can do) 
+    TBA
   challenge: >
-   FIRST STRONGHOLD is played by two alliances of three teams each. Alliances compete against each other
-   to breach their opponents’ defenses, known as outer works, and capture their tower. They score points by
-   crossing elements of their opponents’ outer works, scoring boulders in their opponents’ tower goals, and
-   surrounding and scaling their opponents’ tower itself.
+    FIRST STRONGHOLD is played by two alliances of three teams each. Alliances compete against each other
+    to breach their opponents’ defenses, known as outer works, and capture their tower. They score points by
+    crossing elements of their opponents’ outer works, scoring boulders in their opponents’ tower goals, and
+    surrounding and scaling their opponents’ tower itself.
     <br /><br />
     The game is played on a 27 ft. by 54 ft. field. Each alliance commands one tower, five defenses,
     and a ‘secret passage’ which allows their robots to restock on ammunition, called boulders.
@@ -75,7 +69,6 @@
   year: 2014
   image: /assets/images/robots/2014.jpg
   about: >
-    This picks rolls in a blue ball and shoots it places.
   record: 7-4-1
   ranking: 8
   challenge: >
@@ -100,7 +93,6 @@
   year: 2013
   image: /assets/images/robots/2013.jpg
   about: >
-    (Something cool about this robot!)
   record: 4-4-0
   ranking: 27
   challenge: >
@@ -142,7 +134,6 @@
   year: 2011
   image: /assets/images/robots/2011.jpg
   about: >
-    (Puts triangles on objects.)
   record: 5-4-0
   ranking: 26
   challenge: >
@@ -158,7 +149,6 @@
   year: 2010
   image: /assets/images/robots/2010.jpg
   about: >
-    (Info about robot)
   record: 3-4-3
   ranking: 50
   challenge: >
@@ -174,7 +164,6 @@
   year: 2009
   image: /assets/images/robots/2009.jpg
   about: >
-    (info about our robot)
   record: 3-6-0
   ranking: 39
   challenge: >
@@ -190,7 +179,6 @@
   year: 2008
   image:  
   about: >
-    (Info about our robot)
   record: 4-5-0
   ranking: 31
   challenge: >

@@ -13,11 +13,12 @@
   record: 5-4-0
   ranking: 24
   about: >
-  challenge: >  FIRST Power Up has two alliances of three teams each, with each team controlling a robot and performing 
-  specific tasks on a field to score points. The game has a retro 8-bit theme and teams are required to place milk crates, 
-  or "power cubes", on large balancing scales to tip the scale and gain ownership. Alliances can also trade power cubes for 
-  power ups, giving them a temporary advantage in a match. At the end of the match, robots can climb 
-  the tower attached to the centre balancing scale using a rung attached to the tower, giving them additional points.
+  challenge: >
+    FIRST Power Up has two alliances of three teams each, with each team controlling a robot and performing 
+    specific tasks on a field to score points. The game has a retro 8-bit theme and teams are required to place milk crates, 
+    or "power cubes", on large balancing scales to tip the scale and gain ownership. Alliances can also trade power cubes for 
+    power ups, giving them a temporary advantage in a match. At the end of the match, robots can climb 
+    the tower attached to the centre balancing scale using a rung attached to the tower, giving them additional points.
 
 - name: The Felix
   year: 2017
@@ -26,13 +27,13 @@
   ranking: 43
   about: >
   challenge: >
-  In FIRST STEAMWOORKS, two alliances of three individual teams and their robots compete on a field to score 
-  "match" point to win the game and ranking points to advance to playoff rounds. The game has a steampunk 
-  theme and teams are required to shoot wiffle balls which represent fuel into a simulated boiler which 
-  transfers the generated steam into an airship in the middle of the field. Each alliance has one airship, 
-  which they pressurize with steam from the boiler and load with plastic gears from the field. At the end of the match, 
-  robots can climb and hang on team-supplied ropes (or standard ropes supplied by FIRST) attached to the airship for 
-  additional points.
+    In FIRST STEAMWOORKS, two alliances of three individual teams and their robots compete on a field to score 
+    "match" point to win the game and ranking points to advance to playoff rounds. The game has a steampunk 
+    theme and teams are required to shoot wiffle balls which represent fuel into a simulated boiler which 
+    transfers the generated steam into an airship in the middle of the field. Each alliance has one airship, 
+    which they pressurize with steam from the boiler and load with plastic gears from the field. At the end of the match, 
+    robots can climb and hang on team-supplied ropes (or standard ropes supplied by FIRST) attached to the airship for 
+    additional points.
 
 - name: The Rook
   year: 2016
@@ -59,7 +60,8 @@
   image: /assets/images/robots/2015.jpg
   record:
   ranking: 55
-  about: > Able to stack and carry recycling bins up to the highest level for competition
+  about: >
+    Able to stack and carry recycling bins up to the highest level for competition
     Featuring four wheel-drive mecanum wheels which enable movement in any direction in addition to accelerated rotation, this robot was
     designed for agility and control. Totes were lifted via ropes and a pulley attached to 
   challenge: >
@@ -79,7 +81,8 @@
 - name: The Sniper
   year: 2014
   image: /assets/images/robots/2014.jpg
-  about: > Able to pick up, pass, and launch giant balls
+  about: >
+    Able to pick up, pass, and launch giant balls
   record: 7-4-1
   ranking: 8
   challenge: >
@@ -103,7 +106,8 @@
 - name: The Frisbro
   year: 2013
   image: /assets/images/robots/2013.jpg
-  about: > Able to shoot frisbees into goals and lift itself and hang from a bar at the end of competition
+  about: >
+    Able to shoot frisbees into goals and lift itself and hang from a bar at the end of competition
   record: 4-4-0
   ranking: 27
   challenge: >
@@ -144,7 +148,8 @@
 - name: The Groover
   year: 2011
   image: /assets/images/robots/2011.jpg
-  about: > Probs able to do something
+  about: >
+    Probs able to do something
   record: 5-4-0
   ranking: 26
   challenge: >
@@ -159,7 +164,8 @@
 - name: Kelly   
   year: 2010
   image: /assets/images/robots/2010.jpg
-  about: > Probs able to do something
+  about: >
+    Probs able to do something
   record: 3-4-3
   ranking: 50
   challenge: >
@@ -174,7 +180,8 @@
 - name: Luna
   year: 2009
   image: /assets/images/robots/2009.jpg
-  about: > Probs able to do something
+  about: >
+    Probs able to do something
   record: 3-6-0
   ranking: 39
   challenge: >
@@ -190,12 +197,13 @@
 - name: Exhaust
   year: 2008
   image:  
-  about: > Probs able to do something
+  about: >
+    Probs able to do something
   record: 4-5-0
   ranking: 31
   challenge: > 
-FIRST Overdrive is played on a large,  carpeted field, divided lengthwise by a fence into Red and Blue zones. The game includes 40 in (1,016 mm) diameter inflated balls called "Trackballs". Two three-team alliances race around the track while manipulating the trackballs to score points. 
+    FIRST Overdrive is played on a large,  carpeted field, divided lengthwise by a fence into Red and Blue zones. The game includes 40 in (1,016 mm) diameter inflated balls called "Trackballs". Two three-team alliances race around the track while manipulating the trackballs to score points. 
 
-There is a 15 seconds autonomous period where the robot responds to certain digital signals sent by team members designated as "Robocoaches", who are stationed at the corners of the track.
-The next two minutes of play is the Teleoperated period. The robot is controlled by a team member during this time.
+    There is a 15 seconds autonomous period where the robot responds to certain digital signals sent by team members designated as "Robocoaches", who are stationed at the corners of the track.
+    The next two minutes of play is the Teleoperated period. The robot is controlled by a team member during this time.
 

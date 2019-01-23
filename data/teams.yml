@@ -21,7 +21,7 @@
   school year: 2016-2017
   image: /assets/images/teams/2017.jpg
   captain: > Alex Serier
-  junior captain (Organization): > Sophie Oubaha
+  junior captain (organization): > Sophie Oubaha
   officer (build): > Ryan Purrington
   build team lead: > Marta 
   challenge: >
@@ -34,7 +34,11 @@
   hidden: true
   school year: 2015-2016
   image: /assets/images/teams/2016.jpg
-  captain: > Ace Oubaha
+  captain (build): > Ace Oubaha
+  captain (organization): > Gina Jostes
+  captain (programming): > Patrick Balfanz
+  junior captain: > Alex Serier
+  safety captain: > Emma Klinzing
   challenge: >
   about: >
   

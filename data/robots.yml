@@ -59,7 +59,7 @@
   image: /assets/images/robots/2015.jpg
   record:
   ranking: 55
-  about: >
+  about: > Able to stack and carry recycling bins up to the highest level for competition
     Featuring four wheel-drive mecanum wheels which enable movement in any direction in addition to accelerated rotation, this robot was
     designed for agility and control. Totes were lifted via ropes and a pulley attached to 
   challenge: >
@@ -79,7 +79,7 @@
 - name: The Sniper
   year: 2014
   image: /assets/images/robots/2014.jpg
-  about: >
+  about: > Able to pick up, pass, and launch giant balls
   record: 7-4-1
   ranking: 8
   challenge: >
@@ -103,7 +103,7 @@
 - name: The Frisbro
   year: 2013
   image: /assets/images/robots/2013.jpg
-  about: >
+  about: > Able to shoot frisbees into goals and lift itself and hang from a bar at the end of competition
   record: 4-4-0
   ranking: 27
   challenge: >
@@ -118,11 +118,11 @@
     The match ends with robots attempting to climb on pyramids located near the middle of the field. The robot earns
     points based on how high it climbs. 
 
-- name: The Rebounder
+- name: The Rebounder - State Champion
   year: 2012
   image: /assets/images/robots/2012.jpg
   about: >
-    (This shoots basketballs.)
+    Able to pick up and launch basketballs
   record: 9-4-0
   ranking: 3
   challenge: >
@@ -144,7 +144,7 @@
 - name: The Groover
   year: 2011
   image: /assets/images/robots/2011.jpg
-  about: >
+  about: > Probs able to do something
   record: 5-4-0
   ranking: 26
   challenge: >
@@ -159,7 +159,7 @@
 - name: Kelly   
   year: 2010
   image: /assets/images/robots/2010.jpg
-  about: >
+  about: > Probs able to do something
   record: 3-4-3
   ranking: 50
   challenge: >
@@ -174,19 +174,26 @@
 - name: Luna
   year: 2009
   image: /assets/images/robots/2009.jpg
-  about: >
+  about: > Probs able to do something
   record: 3-6-0
   ranking: 39
   challenge: >
-    The goal of LUNACY is to score as many of the game pieces in the opposing side's trailers as possible. Robots start out in front of the opposite alliances' human players. There is a 15-second autonomous period, during which robots operate according to programs that teams download to their robot, and a 2-minute Teleoperated period, where robots are driven and controlled by a human drive subteam at one end of the field. Empty cells (also worth 2 points) must be handed to a robot by the "payload specialist" at the mid-field position known as the "outpost". The robot must deliver the Empty Cell to their human player on one of the corners in order to get a Super Cell that is worth 15 points. A robot can only carry one Empty Cell at a time. Super Cells can only be put into play during the last 20 seconds of play, and only if the human player has been delivered an Empty Cell.
+    The goal of LUNACY is to score as many of the game pieces in the opposing side's trailers as possible. Robots start 
+    out in front of the opposite alliances' human players. There is a 15-second autonomous period, during which robots 
+    operate according to programs that teams download to their robot, and a 2-minute Teleoperated period, where robots 
+    are driven and controlled by a human drive subteam at one end of the field. Empty cells (also worth 2 points) must be 
+    handed to a robot by the "payload specialist" at the mid-field position known as the "outpost". The robot must deliver 
+    the Empty Cell to their human player on one of the corners in order to get a Super Cell that is worth 15 points. A robot 
+    can only carry one Empty Cell at a time. Super Cells can only be put into play during the last 20 seconds of play, and 
+    only if the human player has been delivered an Empty Cell.
 
 - name: Exhaust
   year: 2008
   image:  
-  about: >
+  about: > Probs able to do something
   record: 4-5-0
   ranking: 31
-  challenge: >
+  challenge: > 
 FIRST Overdrive is played on a large,  carpeted field, divided lengthwise by a fence into Red and Blue zones. The game includes 40 in (1,016 mm) diameter inflated balls called "Trackballs". Two three-team alliances race around the track while manipulating the trackballs to score points. 
 
 There is a 15 seconds autonomous period where the robot responds to certain digital signals sent by team members designated as "Robocoaches", who are stationed at the corners of the track.

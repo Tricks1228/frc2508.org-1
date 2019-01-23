@@ -1,11 +1,21 @@
 - name: (TBD)
   hidden: true
   year: 2019
-  image:
+  image: /assets/images/robots/2019.jpg
   record: TBD (10,000 Lakes), TBD (Great Northern)
   ranking: TBD (10,000 Lakes), TBD (Great Northern)
   about: >
   challenge: >
+  
+- name: T-Shirt Launcher
+  years: 2015-2018
+  image: /assets/images/robots/tshirt.jpg
+  about: >
+    launches t-shirts at games at Stillwater Area High School.
+ 
+  
+
+
 
 - name: Phineas
   year: 2018
@@ -194,7 +204,7 @@
 
 - name: Exhaust
   year: 2008
-  image:  
+  image: /assets/images/robots/2008.jpg
   about: >
     Probs able to do something
   record: 4-5-0
@@ -204,4 +214,11 @@
 
     There is a 15 seconds autonomous period where the robot responds to certain digital signals sent by team members designated as "Robocoaches", who are stationed at the corners of the track.
     The next two minutes of play is the Teleoperated period. The robot is controlled by a team member during this time.
+    
+    
+- name: Jeeves
+  years: ???
+  image: /assets/images/robots/jeeves.jpg
+  about: >
+    probs does something
 

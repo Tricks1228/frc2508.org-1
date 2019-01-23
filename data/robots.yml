@@ -175,17 +175,15 @@
     <br /><br />
     At the end of the match, the robots deploy separate minibots which must race to the top of a vertical pole, triggering a sensor and earning the alliance additional bonus points.  The first minibot to reach the top receives 30 points and the remaining bots receive 20, 15, and 10 points for the last minibot.
 
-- name: Robot 2008
+- name: Exhaust
   year: 2008
   image:  
   about: >
   record: 4-5-0
   ranking: 31
   challenge: >
-    LOGO MOTION incorporated the FIRST logo as game pieces. Each Alliance, comprised of three FIRST teams, must hang as many of the logo game pieces (inflated trianges, circles, and squares) on the scoring grids located on each end of the field as possible.
-    <br /><br />
-    The higher a game piece is hung on the grid, the more points the alliance receives.  Any logo piece hung on the same peg as an Ubertube receives double points. If the logo pieces are assembled in the order of the FIRST logo (triangle, circle, then square) the points for the row are doubled.
-    <br /><br />
-    Each match lasts for 2 minutes and 15 seconds, beginning with a 15-second “autonomous period” in which the robot functions on its own using instructions programmed by the team.  In order to receive extra points, it must hang Ubertubes.  Then it is time for the drivers to take control during the “teleoperated period” which lasts until the end of the game.
-    <br /><br />
-    At the end of the match, the robots deploy separate minibots which must race to the top of a vertical pole, triggering a sensor and earning the alliance additional bonus points.  The first minibot to reach the top receives 30 points and the remaining bots receive 20, 15, and 10 points for the last minibot. 
+FIRST Overdrive is played on a large,  carpeted field, divided lengthwise by a fence into Red and Blue zones. The game includes 40 in (1,016 mm) diameter inflated balls called "Trackballs". Two three-team alliances race around the track while manipulating the trackballs to score points. 
+
+There is a 15 seconds autonomous period where the robot responds to certain digital signals sent by team members designated as "Robocoaches", who are stationed at the corners of the track.
+The next two minutes of play is the Teleoperated period. The robot is controlled by a team member during this time.
+

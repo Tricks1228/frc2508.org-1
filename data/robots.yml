@@ -199,7 +199,7 @@
 
 - name: Exhaust
   year: 2008
-  image: /assets/images/robots/2008.jpg
+  image: /assets/images/noimage.jpg
   about: >
     Probs able to do something
   record: 4-5-0

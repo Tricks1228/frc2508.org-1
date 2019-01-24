@@ -1,0 +1,33 @@
+<% content_for :title, "Teams" %>
+
+<% data.teams.each do |team| %>
+  <% next if team.hidden.present? && team.hidden %>
+  
+  <table class="table table-bordered">
+    <tr>
+      <th>Name</th>
+      <td><%= team.name %></td>
+    </tr>
+    <tr>
+      <th>Year(s)</th>
+      <td><%= team.year %></td>
+    </tr>
+    <tr>
+      <th>Image</th>
+      <td><%= team.image %></td>
+    </tr>
+    <tr>
+      <th>Leadership</th>
+      <td><%= team.leadership %></td>
+    </tr>
+    <tr>
+      <th>Robots</th>
+      <td><%= team.robots %></td>
+    </tr>
+    <tr>
+      <th>About</th>
+      <td><%= team.about %></td>
+    </tr>
+  </table>
+
+<% end %>

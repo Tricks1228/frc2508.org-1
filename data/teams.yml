@@ -1,127 +1,124 @@
 - name: Armada
-  hidden: true
-  school year: 2018-2019
+  year: 2018-2019
   image: /assets/images/teams/2019.jpg
-  captain: > Everett Kroll
-  challenge: > Deep Space
-  competitions: >
-  Robots made: >
-  about: >
+  leadership:
+    captain: Everett Kroll
+  challenge: Deep Space
+  competitions:
+  robots:
+  about:
   
 - name: Armada
-  hidden: true
-  school year: 2017-2018
+  year: 2017-2018
   image: /assets/images/teams/2018.jpg
-  captain: > Everett Kroll
-  challenge: > Power Up
-  Robots made: >
-  about: >
+  leadership:
+    captain: Everett Kroll
+  challenge: Power Up
+  robots:
+  about:
   
 - name: Armada
-  hidden: true
-  school year: 2016-2017
+  year: 2016-2017
   image: /assets/images/teams/2017.jpg
-  captain: > Alex Serier
-  junior captain (organization): > Sophie Oubaha
-  officer (build): > Ryan Purrington
-  build team lead: > Marta 
-  challenge: > FIRST Steamworks
-  robots made: >
-  about: >
-
-  
+  leadership:
+    captain: Alex Serier<br/>
+    junior captain (organization): Sophie Oubaha<br/>
+    officer (build): Ryan Purrington<br/>
+    build team lead: Marta
+    challenge: FIRST Steamworks
+  robots:
+  about:
   
 - name: Armada
-  hidden: true
-  school year: 2015-2016
+  year: 2015-2016
   image: /assets/images/teams/2016.jpg
-  captain (build): > Ace Oubaha
-  captain (organization): > Gina Jostes
-  captain (programming): > Patrick Balfanz
-  junior captain: > Alex Serier
-  safety captain: > Emma Klinzing
-  challenge: > FIRST Stronghold
-  about: >
+  leadership:
+    captain (build): Ace Oubaha<br/>
+    captain (organization): Gina Jostes<br/>
+    captain (programming): Patrick Balfanz<br/>
+    junior captain: Alex Serier<br/>
+    safety captain: Emma Klinzing
+  challenge: FIRST Stronghold
+  about:
   
 - name: Armada
-  hidden: true
-  school year: 2014-2015
+  year: 2014-2015
   image: /assets/images/teams/2015.jpg
-  captain: > Joey Fedor
-  officer (secretary): > Peace Sinyigaya
-  officer (communication): > Margo Redmond
-  officer (build): > Kyle Badger
-  junior captain: > Ace Oubaha
-  safety captain: > James Vandenbergh 
-  number of members: 59>
-  challenge: > Recycle Rush
-  about: >
+  leadership:
+    captain: Joey Fedor<br/>
+    officer (secretary): Peace Sinyigaya<br/>
+    officer (communication): Margo Redmond<br/>
+    officer (build): Kyle Badger<br/>
+    junior captain: Ace Oubaha<br/>
+    safety captain: James Vandenbergh 
+  members: 59
+  challenge: Recycle Rush
+  about:
   
 - name: Armada
-  hidden: true
-  school year: 2013-2014
+  year: 2013-2014
   image:  /assets/images/teams/2014.jpg
-  captain: > Holly Newton
-  junior captain: > Joey Fedor
-  secretary/inventory lead: > Peace Sinyigaya
-  treasurer/communications: > Margo Redmond
-  subteams leaders:
-  robot design: >> David Lee
-  electronics: >> Cory Spawn
-  robot programming: >> Kyle Badger
-  website programming: >> Mitchell Pung
-  build team: >> Evan Nowaczek/Ben Anderson
-  safety captain: > James VandenBergh
-  number of members: 31 >
-  challenge: > Aerial Assist
-  about: >
+  leadership:
+    captain: Holly Newton<br/>
+    junior captain: Joey Fedor<br/>
+    secretary/inventory lead: Peace Sinyigaya<br/>
+    treasurer/communications: Margo Redmond<br/>
+    robot design: David Lee<br/>
+    electronics: Cory Spawn<br/>
+    robot programming: Kyle Badger<br/>
+    website programming: Mitchell Pung<br/>
+    build team: Evan Nowaczek/Ben Anderson<br/>
+    safety captain: James VandenBergh
+  members: 31 >
+  challenge: Aerial Assist
+  about:
   
 - name: Armada
-  hidden: true
-  school year: 2012-2013
+  year: 2012-2013
   image: /assets/images/teams/2013.jpg
-  captain: > Christopher Trom
-  junior captain: > Joey Fedor
-  challenge: > Ultimate Ascent
-  number of members: 34 >
-  about: >
+  leadership:
+    captain: Christopher Trom<br/>
+    junior captain: Joey Fedor<br/>
+  challenge: Ultimate Ascent
+  members: 34
+  about:
   
 - name: Armada
-  hidden: true
-  school year: 2011-2012
+  year: 2011-2012
   image: /assets/images/teams/2012.jpg
-  captain: > Jimmy Fedor
-  challenge: > Rebound Rumble
-  about: >
+  leadership:
+    captain: Jimmy Fedor
+  challenge: Rebound Rumble
+  about:
   
 - name: (TBD)
-  hidden: true
-  school year: 2010-2011
+  year: 2010-2011
   image: /assets/images/teams/2011.jpg
-  captain: > Sean Quinn
-  challenge: > Logomotion
-  about: >
+  leadership:
+    captain: Sean Quinn
+  challenge: Logomotion
+  about:
   
 - name: (TBD)
-  hidden: true
-  school year: 2009-2010
+  year: 2009-2010
   image: /assets/images/teams/2010.jpg
-  captain: > Sean Quinn
-  challenge: > Breakaway
-  about: >
+  leadership:
+    captain: Sean Quinn
+  challenge: Breakaway
+  about:
   
 - name: (TBD)
-  hidden: true
-  school year: 2008-2009
+  year: 2008-2009
   image: /assets/images/teams/2009.jpg
-  captain: > Ben Johnson
-  challenge: > Lunacy
-  about: >
+  leadership:
+    captain: Ben Johnson
+  challenge: Lunacy
+  about:
   
 - name: (TBD)
-  hidden: true
-  school year: 2007-2008
+  year: 2007-2008
   image: /assets/images/teams/2008.jpg
-  captain: > Jeff Schumacher
-  challenge: > Overdrive
-  about: >
+  leadership:
+    captain: Jeff Schumacher
+  challenge: Overdrive
+  about:

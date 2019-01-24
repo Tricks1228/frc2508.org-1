@@ -8,7 +8,8 @@
   challenge: >
   
 - name: T-Shirt Launcher
-  years: 2015-2018
+  hidden: true
+  year: 2015-2018
   image: /assets/images/robots/tshirt.jpg
   about: >
     Launches t-shirts at games at Stillwater Area High School.
@@ -211,7 +212,8 @@
     
     
 - name: Jeeves
-  years: ???
+  hidden: true
+  year: TBD
   image: /assets/images/robots/jeeves.jpg
   about: >
     probs does something

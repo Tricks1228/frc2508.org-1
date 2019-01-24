@@ -11,21 +11,17 @@
   years: 2015-2018
   image: /assets/images/robots/tshirt.jpg
   about: >
-    launches t-shirts at games at Stillwater Area High School.
+    Launches t-shirts at games at Stillwater Area High School.
  
-  
-
-
-
+ 
 - name: Phineas
   year: 2018
   image: /assets/images/robots/2018.jpg
   record: 5-4-0
   ranking: 24
-  about: >
+  about: > 
   challenge: >
-    FIRST Power Up has two alliances of three teams each, with each team controlling a robot and performing 
-    specific tasks on a field to score points. The game has a retro 8-bit theme and teams are required to place milk crates, 
+    FIRST Power Up is a game that has a retro 8-bit theme and teams are required to place milk crates, 
     or "power cubes", on large balancing scales to tip the scale and gain ownership. Alliances can also trade power cubes for 
     power ups, giving them a temporary advantage in a match. At the end of the match, robots can climb 
     the tower attached to the centre balancing scale using a rung attached to the tower, giving them additional points.
@@ -37,13 +33,11 @@
   ranking: 43
   about: >
   challenge: >
-    In FIRST STEAMWOORKS, two alliances of three individual teams and their robots compete on a field to score 
-    "match" point to win the game and ranking points to advance to playoff rounds. The game has a steampunk 
-    theme and teams are required to shoot wiffle balls which represent fuel into a simulated boiler which 
-    transfers the generated steam into an airship in the middle of the field. Each alliance has one airship, 
-    which they pressurize with steam from the boiler and load with plastic gears from the field. At the end of the match, 
-    robots can climb and hang on team-supplied ropes (or standard ropes supplied by FIRST) attached to the airship for 
-    additional points.
+    In FIRST STEAMWOORKS, the game has a steampunk theme and teams are required to shoot wiffle balls which 
+    represent fuel into a simulated boiler which transfers the generated steam into an airship in the middle of 
+    the field. Each alliance has one airship, which they pressurize with steam from the boiler and load with plastic 
+    gears from the field. At the end of the match, robots can climb and hang on team-supplied ropes attached to 
+    the airship for additional points.
 
 - name: The Rook
   year: 2016

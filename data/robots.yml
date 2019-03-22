@@ -2,10 +2,14 @@
   hidden: true
   year: 2019
   image: /assets/images/robots/2019.jpg
-  record: TBD (10,000 Lakes), TBD (Great Northern)
-  ranking: TBD (10,000 Lakes), TBD (Great Northern)
-  about: >
-  challenge: >
+  record: TBD (10,000 Lakes), 4-6-0 (Great Northern)
+  ranking: TBD (10,000 Lakes), 30 (Great Northern)
+  about: > This robot can intake cargo with a wheel system and 
+  score on the low and mid level rocketships and the front and top
+  cargoship. Using 3 linear actuators, this robot can climb to each level of the alliance habitat at the end of each match.  
+  challenge: > This game is centered around space and the two teams compete to place poly-carbonate hatch covers and orange 
+  rubber balls or "cargo" on rockets and cargo ships before returning to their HAB platform to climb at the end of the match.
+  
   
 - name: T-Shirt Launcher
   hidden: true

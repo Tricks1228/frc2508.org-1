@@ -9,7 +9,7 @@
     score on the low and mid level rocketships and the front and top
     cargoship. Using 3 linear actuators, this robot can climb to each 
     level of the alliance habitat at the end of each match.  
-  challenge: > 
+  challenge: >
     Destination: Deep Space is centered around space and the two teams 
     compete to place poly-carbonate hatch covers and orange rubber balls or "cargo" 
     on rockets and cargo ships before returning to their HAB platform to climb at the end of the match.
@@ -26,8 +26,8 @@
   image: /assets/images/robots/2018.jpg
   record: 5-4-0
   ranking: 24
-  about: > 
-  This robot has a pair of arms equipped with spoked intake motors all allowed to ascend and descend to the various necessary levels.
+  about: >
+    This robot has a pair of arms equipped with spoked intake motors all allowed to ascend and descend to the various necessary levels.
   challenge: >
     FIRST Power Up is a game that has a retro 8-bit theme and teams are required to place milk crates, 
     or "power cubes", on large balancing scales to tip the scale and gain ownership. Alliances can also trade power cubes for 
@@ -40,6 +40,7 @@
   record: 3-5-0
   ranking: 43
   about: >
+    
   challenge: >
     In FIRST Steamworks, the game has a steampunk theme and teams are required to shoot wiffle balls which 
     represent fuel into a simulated boiler which transfers the generated steam into an airship in the middle of 
@@ -172,7 +173,7 @@
     Probs able to do something
   record: 4-5-0
   ranking: 31
-  challenge: > 
+  challenge: >
     FIRST Overdrive is played on a large,  carpeted field, divided lengthwise by a fence into Red and Blue zones. 
     The game includes giant balls called "Trackballs". Two three-team alliances race around the track while 
     manipulating the trackballs to score points.     

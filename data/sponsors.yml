@@ -18,9 +18,7 @@
   url: https://www.deltamodtech.com/
   image: /assets/images/brands/deltaModTech.jpg
   about: >
-    Nepsis Capital Management is a financial investment advisory firm. It is located in 
-    Minneapolis, MN. They strive for clarity in their money management techniques.
-
+    Delta ModTech is a manufacturing solutions company. They specialize in machinery for web converting and packaging, RFID, custom automation machinery, and more. They are located in Coon Rapids, Minnesota, and their machines are comprised of modules.
 - name: Automation Inc
   url: https://www.automationinc.com/
   image: /assets/images/brands/automationInc.png
@@ -38,39 +36,3 @@
   image: /assets/images/brands/PartnershipPlanLogo.png
   about: >
     The Partnership Plan is a non-profit organization which makes grants to teachers and clubs to enhance learning opportunities.
-
-- name: Culvers
-  url: 
-  image: /assets/images/brands/culvers.png
-  about: >
-    With 700 locations, Culvers is a primarily Midwestern fast-food chain known for its custard, burgers, and cheese curds. 
-
-- name: Kowalski's Markets
-  url: https://www.kowalskis.com
-  image: /assets/images/brands/kowalskis.png
-  about: >
-    Kowalski’s Market is a midwestern grocery store chain carrying a wide variety of every day & specialty items, focusing on local producers.
-
-# - name: Polaris
-#   url: http://www.polaris.com/en-us/home.aspx
-#   image: /assets/images/brands/polaris_logo.jpg
-#   about: >
-#     Polaris is an American manufacturer of snowmobiles, ATVs, and neighborhood electric vehicles, 
-#     with a firm belief in the ethics and value of their employees. Polaris endeavors to manufacture 
-#     great products by working with integrity, innovation, passion for excellence, focus on customers, 
-#     and other commendable company values.
-
-# - name: United Hardware
-#   url: https://unitedhardware.com/Default.aspx
-#   image: /assets/images/brands/hardware_logo.jpg
-#   about: >
-#     United Hardware is a distributing company located in Plymoth, MN. They supply hardware items to about 
-#     610 businesses. Most of their supplies goes Hardware Hank stores, which is owned by United Hardware.
-
-# - name: Vistatek
-#   url: http://www.vistatek.com/
-#   image: /assets/images/brands/VistaTek_logo.jpg
-#   about: >
-#     VistaTek is a family-owned manufacturing company located in Stillwater, MN. The company’s state-of-the-art 
-#     software and in-house technologies allow it to efficiently assist customers with small to large projects. 
-#     Furthermore, VistaTek’s expert staff help customers get their products to the market as quickly and cost-efficiently as possible.

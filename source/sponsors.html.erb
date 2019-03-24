@@ -6,6 +6,8 @@
 
 <div id="sponsor">
 
+  <h1 class="page-header">Sponsors</h1>
+
   <% data.sponsors.each do |sponsor| %>
     <div class="row">
       <div class="col-lg-4">
@@ -22,6 +24,29 @@
         </div>
         <hr>
         <%= sponsor.about %>
+      </div>
+    </div>
+  <% end %>
+
+
+  <h1 class="page-header">Contributors</h1>
+
+  <% data.contributors.each do |contributor| %>
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="sponsorlogo">
+          <a href="<%= contributor.url %>" target="_blank" title="<%= contributor.name %>">
+            <img alt="<%= contributor.name %>" class="center" src="<%= contributor.image %>">
+          </a>
+        </div>
+      </div>
+
+      <div class="col-lg-7">
+        <div>
+          <a href="<%= contributor.url %>" target="_blank" title="<%= contributor.name %>"><%= contributor.name %></a>
+        </div>
+        <hr>
+        <%= contributor.about %>
       </div>
     </div>
   <% end %>

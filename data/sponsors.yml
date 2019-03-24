@@ -8,49 +8,48 @@
     3M products are available for purchase through distributors and retailers in more than 200 countries 
     and/or colonies, and many 3M products are available online directly from the company.
 
+- name: Anderson Corporation
+  url: https://www.andersenwindows.com/
+  image: /assets/images/brands/andersonWindows.png
+  about: >
+    As the first window and patio door manufacturer in the U.S. to earn the seal of approval from Green Seal, the Anderson Corporation manufacture and market windows and doors for commercial, residential, and auto glass. They have over 30 locations, with their headquarters located in Bayport, Minnesota. .
+
+- name: Delta ModTech
+  url: https://www.deltamodtech.com/
+  image: /assets/images/brands/deltaModTech.jpg
+  about: >
+    Nepsis Capital Management is a financial investment advisory firm. It is located in 
+    Minneapolis, MN. They strive for clarity in their money management techniques.
+
+- name: Automation Inc
+  url: https://www.automationinc.com/
+  image: /assets/images/brands/automationInc.png
+  about: >
+    Automation Inc is a Midwestern company that supplies and distributes automated machines and parts for the manufacturing industry. They were established in 1981 and distribute motion, machine vision, pneumatic, electrical, process control, and machine components.
+
 - name: Stillwater Glass
-  url: https://plus.google.com/117404515836873962817/about
+  url: https://stillwaterglass.com/
   image: /assets/images/brands/StillwaterGlass.png
   about: >
-    Stillwater Glass replaces broken glass in automotive vehicles, homes, and business locations. 
-    They repair screens and are an authorized Anderson Windows service representative
+    Stillwater Glass is a commercial, residential, and auto glass mirror shop located in St. Croix Valley. They are dedicated to providing the best quality glass for their customers.
 
-# - name: Stillwater Printing
-#   url: http://www.stillwaterprinting.com
-#   image: /assets/images/brands/StillwaterPrintingLogo.png
-#   about: >
-#     Stillwater Printing is a company that combines quality printing and creative commercial 
-#     design to provide the best support servicecs possible to its clients. Stillwater Printing Company 
-#     provides a wide variety of products, from sales flyers to logo design, all to provide the best solution 
-#     to your design needs.
+- name: Partnership Plan
+  url: http://www.partnershipplan.org/
+  image: /assets/images/brands/PartnershipPlanLogo.png
+  about: >
+    The Partnership Plan is a non-profit organization which makes grants to teachers and clubs to enhance learning opportunities.
 
-# - name: Partnership Plan
-#   url: http://www.partnershipplan.org/
-#   image: /assets/images/brands/PartnershipPlanLogo.png
-#   about: >
-#     The Partnership Plan is a non-profit organization that strives to enhance the educational 
-#     experience of students in the Stillwater Area.
+- name: Culvers
+  url: 
+  image: /assets/images/brands/culvers.png
+  about: >
+    With 700 locations, Culvers is a primarily Midwestern fast-food chain known for its custard, burgers, and cheese curds. 
 
-# - name: Techified
-#   url: http://www.techified.net/
-#   image: /assets/images/brands/Techified.png
-#   about: >
-#     Techified is a Minnesota company that develops customer server software and websites for small and medium businesses.
-
-# - name: Lake Elmo Repair
-#   url: http://www.lakeelmoautomotiverepair.com/
-#   image: /assets/images/brands/LakeElmoRepair.jpg
-#   about: >
-#     Voted "Best Automotive Service Shop" on Angie's List three years in a row, Lake Elmo Repair 
-#     provides honest and quality auto repair services to its clients. For fast and affordible 
-#     automotive repair, one can find Lake Elmo Repair in Lake Elmo, Minnesota.
-
-# - name: Nepsis Capital Management
-#   url: http://www.nepsiscapital.com/
-#   image: /assets/images/brands/nepsis_logo.jpg
-#   about: >
-#     Nepsis Capital Management is a financial investment advisory firm. It is located in 
-#     Minneapolis, MN. They strive for clarity in their money management techniques.
+- name: Kowalski's Markets
+  url: https://www.kowalskis.com
+  image: /assets/images/brands/kowalskis.png
+  about: >
+    Kowalski’s Market is a midwestern grocery store chain carrying a wide variety of every day & specialty items, focusing on local producers.
 
 # - name: Polaris
 #   url: http://www.polaris.com/en-us/home.aspx

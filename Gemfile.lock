@@ -21,10 +21,14 @@ GEM
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7-x86-mingw32)
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.5)
     ffi (1.9.25)
+    ffi (1.9.25-x64-mingw32)
+    ffi (1.9.25-x86-mingw32)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -108,11 +112,17 @@ GEM
     tilt (2.0.9)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2018.9)
+      tzinfo (>= 1.0.0)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
+  x64-mingw32
+  x86-mingw32
+  x86-mswin32
 
 DEPENDENCIES
   middleman

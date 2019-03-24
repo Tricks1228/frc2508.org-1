@@ -4,14 +4,15 @@
   image: /assets/images/robots/2019.jpg
   record: TBD (10,000 Lakes), 4-6-0 (Great Northern)
   ranking: TBD (10,000 Lakes), 30 (Great Northern)
-  about: > This robot can intake cargo with a wheel system and 
-  score on the low and mid level rocketships and the front and top
-  cargoship. Using 3 linear actuators, this robot can climb to each 
-  level of the alliance habitat at the end of each match.  
-  challenge: > Destination: Deep Space is centered around space and the two teams 
-  compete to place poly-carbonate hatch covers and orange rubber balls or "cargo" 
-  on rockets and cargo ships before returning to their HAB platform to climb at the end of the match.
-  
+  about: >
+    This robot can intake cargo with a wheel system and 
+    score on the low and mid level rocketships and the front and top
+    cargoship. Using 3 linear actuators, this robot can climb to each 
+    level of the alliance habitat at the end of each match.  
+  challenge: > 
+    Destination: Deep Space is centered around space and the two teams 
+    compete to place poly-carbonate hatch covers and orange rubber balls or "cargo" 
+    on rockets and cargo ships before returning to their HAB platform to climb at the end of the match.
   
 - name: T-Shirt Launcher
   hidden: true
@@ -19,8 +20,7 @@
   image: /assets/images/robots/tshirt.jpg
   about: >
     Launches t-shirts at games at Stillwater Area High School.
- 
- 
+
 - name: Phineas
   year: 2018
   image: /assets/images/robots/2018.jpg

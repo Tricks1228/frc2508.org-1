@@ -54,7 +54,7 @@
   record: 4-4-0
   ranking: 25
   about: >
-    TBA
+    Able to pick a gear, place it on spring, and can climb the rope
   challenge: >
     In FIRST Stronghold, teams compete against each other to breach their opponents’ defenses and 
     capture their tower. Teams score points by crossing elements of their 
@@ -118,7 +118,7 @@
   year: 2011
   image: /assets/images/robots/2011.jpg
   about: >
-    Probs able to do something
+    Able to pick up game pieces and hang them.
   record: 5-4-0
   ranking: 26
   challenge: >
@@ -133,7 +133,7 @@
   year: 2010
   image: /assets/images/robots/2010.jpg
   about: >
-    Probs able to do something
+    U/K
   record: 3-4-3
   ranking: 50
   challenge: >
@@ -153,7 +153,7 @@
   year: 2009
   image: /assets/images/robots/2009.jpg
   about: >
-    Probs able to do something
+    U/K
   record: 3-6-0
   ranking: 39
   challenge: >
@@ -170,7 +170,7 @@
   year: 2008
   image: /assets/images/noimage.jpg
   about: >
-    Probs able to do something
+    U/K
   record: 4-5-0
   ranking: 31
   challenge: >
@@ -183,5 +183,5 @@
   year: TBD
   image: /assets/images/robots/jeeves.jpg
   about: >
-    probs does something
+    Personal project.
 

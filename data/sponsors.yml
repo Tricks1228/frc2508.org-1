@@ -19,6 +19,13 @@
   image: /assets/images/brands/deltaModTech.jpg
   about: >
     Delta ModTech is a manufacturing solutions company. They specialize in machinery for web converting and packaging, RFID, custom automation machinery, and more. They are located in Coon Rapids, Minnesota, and their machines are comprised of modules.
+
+- name: PMMI
+  url: https://pmmi.org/
+  image: /assets/images/brands/pmmi.jpg
+  about: >
+    With over 800 members, PMMI is a trade association whose companies distribute packaging containers, supplies, machinery, and machinery parts. 
+
 - name: Automation Inc
   url: https://www.automationinc.com/
   image: /assets/images/brands/automationInc.png
@@ -36,3 +43,4 @@
   image: /assets/images/brands/PartnershipPlanLogo.png
   about: >
     The Partnership Plan is a non-profit organization which makes grants to teachers and clubs to enhance learning opportunities.
+

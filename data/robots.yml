@@ -1,4 +1,4 @@
-- name: (TBD)
+- name: Newton
   hidden: false
   year: 2019
   image: /assets/images/robots/2019.jpg
@@ -27,7 +27,7 @@
   record: 5-4-0
   ranking: 24
   about: >
-    This robot has a pair of arms equipped with spoked intake motors all allowed to ascend and descend to the various necessary levels.
+    Has a pair of arms equipped with spoked intake motors all allowed to ascend and descend to the various necessary levels.
   challenge: >
     FIRST Power Up is a game that has a retro 8-bit theme and teams are required to place milk crates, 
     or "power cubes", on large balancing scales to tip the scale and gain ownership. Alliances can also trade power cubes for 
@@ -54,6 +54,7 @@
   record: 4-4-0
   ranking: 25
   about: >
+    Can collect and launch balls with visual tracking and could go over one of the terrains
     
   challenge: >
     In FIRST Stronghold, teams compete against each other to breach their opponents’ defenses and 

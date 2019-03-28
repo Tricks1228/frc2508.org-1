@@ -23,8 +23,9 @@ pages:
   - apt-get install -y nodejs
   - bundle install --path vendor
   - bundle exec middleman build
+  - mv build public
   artifacts:
     paths:
-    - build
+    - public
   only:
   - master

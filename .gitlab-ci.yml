@@ -6,6 +6,7 @@ cache:
 
 test:
   script:
+  - gem update --system
   - apt-get update -y
   - apt-get install -y nodejs
   - bundle install --path vendor
@@ -15,6 +16,7 @@ test:
 
 pages:
   script:
+  - gem update --system
   - apt-get update -y
   - apt-get install -y nodejs
   - bundle install --path vendor

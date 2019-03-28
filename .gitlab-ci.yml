@@ -1,4 +1,4 @@
-image: ruby:2.5
+image: ruby:2.5.1
 
 cache:
   paths:
@@ -6,7 +6,6 @@ cache:
 
 test:
   script:
-  - gem update --system
   - apt-get update -y
   - apt-get install -y nodejs
   - bundle install --path vendor
@@ -16,7 +15,6 @@ test:
 
 pages:
   script:
-  - gem update --system
   - apt-get update -y
   - apt-get install -y nodejs
   - bundle install --path vendor

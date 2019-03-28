@@ -1,12 +1,17 @@
 image: ruby:2.5.1
 
+before_script:
+  - apt-get update && apt-get install -y locales
+  - echo "en_US.UTF-8 UTF-8" > /etc/locale.gen
+  - locale-gen
+  - export LC_ALL=en_US.UTF-8
+
 cache:
   paths:
   - vendor
 
 test:
   script:
-  - apt-get update -y
   - apt-get install -y nodejs
   - bundle install --path vendor
   - bundle exec middleman build
@@ -15,7 +20,6 @@ test:
 
 pages:
   script:
-  - apt-get update -y
   - apt-get install -y nodejs
   - bundle install --path vendor
   - bundle exec middleman build

@@ -2,6 +2,10 @@
 
 The official Armada Robotics 2508 website.
 
+### Bugs/Enhancements
+
+New features, suggestions, and existing bugs should be tracked on the [Github issues](https://github.com/Armada2508/frc2508.org/issues) page. 
+
 ### Setup
 
 1. Install Ruby (use http://rubyinstaller.org for Windows)

@@ -78,7 +78,7 @@
             &copy; 2007-<%= Time.now.year %> <a href="/"><b>Armada Robotics</b></a>
           </p>
           <p>
-            Maintained by the FRC2508 development team (<%= Time.now.in_time_zone('America/Chicago').strftime('%b %d, %Y') %>).
+            Maintained by the FRC2508 development team (<%= Time.now.getlocal('-06:00').strftime('%b %d, %Y') %>).
           </p>
         </div>
         <div class="col-lg-6">

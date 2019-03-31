@@ -4,12 +4,6 @@
   about: >
     With 700 locations, Culvers is a primarily Midwestern fast-food chain known for its custard, burgers, and cheese curds. 
 
-- name: Bruegger's
-  url: https://www.brueggers.com
-  image: /assets/images/brands/brueggers.png
-  about: >
-    Bruegger’s is a casual restaurant that specializes in bagels and cream cheese, but their menu also includes soups, salads, and drinks. Bruegger’s was established in NYC, but most locations are in Minnesota.
-
 - name: Arby’s
   url: https://www.arbys.com
   image: /assets/images/brands/arbys.png

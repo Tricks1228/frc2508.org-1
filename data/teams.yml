@@ -5,7 +5,10 @@
   challenge: Deep Space
   competitions:
   robots:
-  about:
+  about: >
+    Fun fact! Semifinalists at the 10,000 Lakes Regional Competition. This is the first team to do this in Armada history!
+    Another fun fact! First year any Armada team has competeted at two regional competitions. Armada competed at the Great Northern 
+    Regional Competition in North Dakota and the 10,000 Lakes Regional Competition in Minnesota.
   
 - year: 2017-2018
   image: /assets/images/teams/2018.jpg
@@ -50,6 +53,7 @@
   members: 59
   challenge: Recycle Rush
   about:
+    Fun fact! This is the largest team Armada has ever had with a total of 59 students!
   
 - year: 2013-2014
   image:  /assets/images/teams/2014.jpg
@@ -84,6 +88,7 @@
     Captain: Jimmy Fedor
   challenge: Rebound Rumble
   about:
+    Fun fact! We went to state for the first time with this team and won!
   
 - year: 2010-2011
   image: /assets/images/teams/2011.jpg

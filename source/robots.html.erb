@@ -48,10 +48,12 @@
         <%= robot.about %>
       </p>
       <br />
-      <b>The Challenge:</b>
-      <p>
-        <%= robot.challenge %>
-      </p>
+      <% if robot.challenge.present? %>
+        <b>The Challenge:</b>
+        <p>
+          <%= robot.challenge %>
+        </p>
+      <% end %>
     </div>
   </div>
 

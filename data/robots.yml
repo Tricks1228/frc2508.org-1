@@ -15,7 +15,6 @@
     on rockets and cargo ships before returning to their HAB platform to climb at the end of the match.
   
 - name: T-Shirt Launcher
-  hidden: true
   year: 2015-2018
   image: /assets/images/robots/tshirt.jpg
   about: >
@@ -148,7 +147,6 @@
     players must pick up the balls and pass them to the center of the alliance station to be placed on a ball 
     return rack, after which they will re-enter play at midfield. Teams are penalized if balls are not re-entered 
     within a set time limit.
-
     
 - name: Jesse
   year: 2009
@@ -167,6 +165,12 @@
     can only carry one Empty Cell at a time. Super Cells can only be put into play during the last 20 seconds of play, and 
     only if the human player has been delivered an Empty Cell.
 
+- name: Jeeves
+  year: 2009
+  image: /assets/images/robots/jeeves.jpg
+  about: >
+    Personal project.
+
 - name: Exhaust
   year: 2008
   image: /assets/images/robots/2008.jpg
@@ -177,12 +181,4 @@
   challenge: >
     FIRST Overdrive is played on a large,  carpeted field, divided lengthwise by a fence into Red and Blue zones. 
     The game includes giant balls called "Trackballs". Two three-team alliances race around the track while 
-    manipulating the trackballs to score points.     
-    
-- name: Jeeves
-  hidden: true
-  year: TBD
-  image: /assets/images/robots/jeeves.jpg
-  about: >
-    Personal project.
-
+    manipulating the trackballs to score points.

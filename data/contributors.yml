@@ -3,18 +3,21 @@
   image: /assets/images/brands/culvers.png
   about: >
     With 700 locations, Culvers is a primarily Midwestern fast-food chain known for its custard, burgers, and cheese curds. 
+  rank: Bronze
 
 - name: Arby’s
   url: https://www.arbys.com
   image: /assets/images/brands/arbys.png
   about: >
     Arby’s is the second largest sandwich chain, according to Food & Wine in the October 2017 issue. They are known for their sandwiches, but they also offer sides, shakes, and salads.
+  rank: Copper
 
 - name: Kowalski's Markets
   url: https://www.kowalskis.com
   image: /assets/images/brands/kowalskis.png
   about: >
     Kowalski’s Market is a midwestern grocery store chain carrying a wide variety of every day & specialty items, focusing on local producers.
+  rank: Copper
 
 # - name: Polaris
 #   url: http://www.polaris.com/en-us/home.aspx

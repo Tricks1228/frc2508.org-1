@@ -13,23 +13,34 @@
   <% data.sponsors.each do |sponsor| %>
   <% if sponsor.rank != rank.level then
       next
-    end
-  %>
+    end %>
     <div class="row">
       <div class="col-lg-4">
         <div class="sponsorlogo">
-          <a href="<%= sponsor.url %>" target="_blank" title="<%= sponsor.name %>">
+          <% if rank.level < 5%>
+            <a href="<%= sponsor.url %>" target="_blank" title="<%= sponsor.name %>">
+          <% end %>
             <img alt="<%= sponsor.name %>" class="center" src="<%= sponsor.image %>">
-          </a>
+          <% if rank.level < 5%>
+            </a>
+          <% end %>
         </div>
       </div>
 
       <div class="col-lg-7">
         <div>
-          <a href="<%= sponsor.url %>" target="_blank" title="<%= sponsor.name %>"><%= sponsor.name %></a>
+          <% if rank.level < 5%>
+          <a href="<%= sponsor.url %>" target="_blank" title="<%= sponsor.name %>">
+          <% end %>
+            <%= sponsor.name %>
+          <% if rank.level < 5%>
+          </a>
+          <% end %>
         </div>
+        <% if rank.level < 5%>
         <hr>
         <%= sponsor.about %>
+        <% end %>
       </div>
     </div>
   <% end %>

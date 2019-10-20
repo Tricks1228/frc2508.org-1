@@ -6,9 +6,15 @@
 
 <div id="sponsor">
 
-  <h1 class="page-header">Sponsors</h1>
+  <% data.tiers.each do |rank| %>
+
+  <h1 class="page-header"><%= rank.name %></h1>
 
   <% data.sponsors.each do |sponsor| %>
+  <% if sponsor.rank != rank.level then
+      next
+    end
+  %>
     <div class="row">
       <div class="col-lg-4">
         <div class="sponsorlogo">
@@ -26,6 +32,8 @@
         <%= sponsor.about %>
       </div>
     </div>
+  <% end %>
+
   <% end %>
 
 

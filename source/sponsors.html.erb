@@ -36,29 +36,6 @@
 
   <% end %>
 
-
-  <h1 class="page-header">Contributors</h1>
-
-  <% data.contributors.each do |contributor| %>
-    <div class="row">
-      <div class="col-lg-4">
-        <div class="sponsorlogo">
-          <a href="<%= contributor.url %>" target="_blank" title="<%= contributor.name %>">
-            <img alt="<%= contributor.name %>" class="center" src="<%= contributor.image %>">
-          </a>
-        </div>
-      </div>
-
-      <div class="col-lg-7">
-        <div>
-          <a href="<%= contributor.url %>" target="_blank" title="<%= contributor.name %>"><%= contributor.name %></a>
-        </div>
-        <hr>
-        <%= contributor.about %>
-      </div>
-    </div>
-  <% end %>
-
   <div class="jumbotron">
     <h3 class="center" id="howtosponsor">How To Sponsor Armada:</h3>
 

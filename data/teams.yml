@@ -1,7 +1,13 @@
 - year: 2018-2019
   image: /assets/images/teams/2019.jpg
   leadership: >
-    Captain: Everett Kroll
+    Captain - Everett Kroll<br/>
+    Assistant Captain - Ben Abbott<br/>
+    Mechanical Lead - Everett Kroll<br/>
+    Programming Lead - Ben Abbott<br/>
+    Marketing Lead - Mark Sinyigaya<br/>
+    CAD Lead - Carter Smith<br/>
+    Logistics Lead - Sarah Symalla<br/>
   challenge: Deep Space
   competitions:
   robots:
@@ -13,7 +19,11 @@
 - year: 2017-2018
   image: /assets/images/teams/2018.jpg
   leadership: >
-    Captain: Everett Kroll
+    Captain - Everett Kroll<br/>
+    Mechanical Lead - Everett Kroll<br/>
+    Programming Lead - Steve Franklin<br/>
+    Marketing Lead - Sarah Symalla<br/>
+    Logistics Lead - Sarah Symalla<br/>
   challenge: Power Up
   robots:
   about: >

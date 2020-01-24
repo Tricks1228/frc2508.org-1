@@ -1,10 +1,6 @@
-- name: Diamond
-  level: 1
 - name: Platinum
-  level: 2
+  level: 1
 - name: Gold
-  level: 3
+  level: 2
 - name: Silver
-  level: 4
-- name: Bronze
-  level: 5
+  level: 3

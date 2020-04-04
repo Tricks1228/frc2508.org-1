@@ -39,12 +39,12 @@
   rank: 2
   
 
-- name: PMMI
-  url: https://pmmi.org/
-  image: /assets/images/brands/pmmi.jpg
-  about: >
-    With over 800 members, PMMI is a trade association whose companies distribute packaging containers, supplies, machinery, and machinery parts. 
-  rank: 2
+# - name: PMMI
+#   url: https://pmmi.org/
+#   image: /assets/images/brands/pmmi.jpg
+#   about: >
+#     With over 800 members, PMMI is a trade association whose companies distribute packaging containers, supplies, machinery, and machinery parts. 
+#   rank: 2
 
 
 - name: Stillwater Glass

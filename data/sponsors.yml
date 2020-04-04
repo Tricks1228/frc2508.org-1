@@ -16,12 +16,12 @@
     and/or colonies, and many 3M products are available online directly from the company.
   rank: 1
   
-- name: Anderson Corporation
-  url: https://www.andersenwindows.com/
-  image: /assets/images/brands/andersonWindows.png
-  about: >
-    As the first window and patio door manufacturer in the U.S. to earn the seal of approval from Green Seal, the Anderson Corporation manufacture and market windows and doors for commercial, residential, and auto glass. They have over 30 locations, with their headquarters located in Bayport, Minnesota. .
-  rank: 2
+# - name: Anderson Corporation
+#   url: https://www.andersenwindows.com/
+#   image: /assets/images/brands/andersonWindows.png
+#   about: >
+#     As the first window and patio door manufacturer in the U.S. to earn the seal of approval from Green Seal, the Anderson Corporation manufacture and market windows and doors for commercial, residential, and auto glass. They have over 30 locations, with their headquarters located in Bayport, Minnesota. .
+#   rank: 2
   
 - name: Delta ModTech
   url: https://www.deltamodtech.com/

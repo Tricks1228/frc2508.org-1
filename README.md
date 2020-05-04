@@ -1,4 +1,4 @@
-# frc2508.org ![Continuous Deployment to GitHub Pages](https://github.com/Armada2508/frc2508.org/workflows/Continuous%20Deployment%20to%20GitHub%20Pages/badge.svg?branch=master)
+# frc2508.org ![Deployment](https://github.com/Armada2508/frc2508.org/workflows/Deployment/badge.svg)
 
 The official Armada Robotics 2508 website.
 

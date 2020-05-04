@@ -21,4 +21,4 @@ New features, suggestions, and existing bugs should be tracked on the [Github is
 ### Deploying
 
 1. Commit your changes with `git commit`
-2. Use `rake publish` to deploy changes to `frc2508.org`
+2. Push your changes to the `master` branch

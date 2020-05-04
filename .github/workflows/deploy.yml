@@ -1,4 +1,4 @@
-name: Continuous Deployment to GitHub Pages
+name: Deployment
 on:
   push:
     branches:
@@ -13,7 +13,7 @@ jobs:
       - name: Setup Ruby
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.6.5'
+          ruby-version: '2.7.1'
       - name: Install bundler
         run: gem install bundler:2.0.2
       - name: Install bundled gems

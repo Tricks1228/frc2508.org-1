@@ -5,7 +5,7 @@ set :theme, 'bootstrap-red'
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
-set :pdfs_dir, 'assets/pdfs'
+set :documents_dir, 'assets/documents'
 
 # Pretty URLs
 activate :directory_indexes

@@ -20,8 +20,10 @@ jobs:
         run: bundle install
       - name: Build site
         run: bundle exec middleman build
-      - name: Publish site
-        uses: maxheld83/ghpages@v0.2.1
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-          BUILD_DIR: ./build
+      - name: GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Build directory to deploy
+          build_dir: ./build
+          # Allow Jekyll to build your site
+          #jekyll: # optional, default is true

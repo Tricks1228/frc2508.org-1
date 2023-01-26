@@ -27,3 +27,5 @@ jobs:
           build_dir: ./build
           # Allow Jekyll to build your site
           #jekyll: # optional, default is true
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}

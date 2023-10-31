@@ -14,42 +14,36 @@
     29 international companies, 3M India is the only public company other than the parent company. 
     3M products are available for purchase through distributors and retailers in more than 200 countries 
     and/or colonies, and many 3M products are available online directly from the company.
-   rank: 1
 
   name: PMMI
   url: https://www.pmmi.org
   image: /assets/images/brands/pmmi.jpg
   about: > 
     With over 800 members, PMMI is a trade association whose companies distribute packaging containers, supplies, machinery, and machinery parts.
-  rank: 1
 
   name: Delta ModTech
   url: https://www.deltamodtech.com/
   image: /assets/images/brands/deltaModTech.jpg
   about: >
     Delta ModTech is a manufacturing solutions company. They specialize in machinery for web converting and packaging, RFID, custom automation machinery, and more. They are located in Coon Rapids, Minnesota, and their machines are comprised of modules.
-  rank: 1
   
   name: Anderson Corporation
   url: https://www.andersenwindows.com/
   image: /assets/images/brands/andersonWindows.png
   about: >
     As the first window and patio door manufacturer in the U.S. to earn the seal of approval from Green Seal, the Anderson Corporation manufacture and market windows and doors for commercial, residential, and auto glass. They have over 30 locations, with their headquarters located in Bayport, Minnesota. .
-  rank: 1
   
   name: Medtronic
   url: https://www.automationinc.com/
   image: /assets/images/brands/Medtronic.png
   about: >
     Medtronic is a medical device company dedicated to creating better health access for the world.
-  rank: 1
   
   name: Stillwater Glass
   url: https://stillwaterglass.com/
   image: /assets/images/brands/StillwaterGlass.png
   about: >
     Stillwater Glass is a commercial, residential, and auto glass mirror shop located in St. Croix Valley. They are dedicated to providing the best quality glass for their customers.
-  rank: 2
   
 #- name: Culvers
 #  url: 

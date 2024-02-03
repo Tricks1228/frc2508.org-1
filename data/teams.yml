@@ -1,3 +1,48 @@
+- year: 2023-2024
+  image: #find after comp
+  leadership: >
+    Captain - Frederick Ribolzi<br/>
+    Mechanical Lead - Frederick Ribolzi / Jaxon Bluesky<br/>
+    Programming Lead - Brock Blaha<br/>
+    Buisness Lead - Mya Brainard / Cody Rasch<br/>
+    Electronics Lead - Eddie Roots<br/>
+  challenge: Crescendo
+  robots: 
+  about: > #update
+
+- year: 2022-2023
+  image: /assets/images/teams/2023.jpg
+  leadership: >
+    Captain - Frederick Ribolzi<br/>
+    Mechanical Lead - Frederick Ribolzi<br/>
+    Programming Lead - Brock Blaha<br/>
+    Buisness Lead - Mya Brainard / Cody Rasch<br/>
+    CAD Lead - Frederick Ribolzi<br/>
+    Electronics Lead - Eddie Roots<br/>
+  challenge: Charged Up
+  robots: 
+  about: > #update
+    
+- year: 2021-2022
+  image: /assets/images/teams/2022.jpg
+  leadership: >
+    Captain - Addie Foote<br/>
+    Electronics Lead - Eddie Roots<br/>
+  challenge: Rapid React
+  robots: 
+  about: > #update
+    
+- year: 2019-2020
+  image: /assets/images/teams/2020.jpg
+  leadership: >
+    Captain - Ben Abbott<br/>
+    Assistant Captain - Carter Smith<br/> 
+  challenge: Infinite Recharge
+  robots: 
+  about: >
+    Fun fact! due to the COVID-19 pandemic, both championships were cancelled this year
+   
+
 - year: 2018-2019
   image: /assets/images/teams/2019.jpg
   leadership: >

@@ -1,5 +1,17 @@
+- year: 2023-2024
+  image: #find after comp
+  leadership: >
+    Captain - Frederick Ribolzi<br/>
+    Mechanical Lead - Frederick Ribolzi / Jaxon Bluesky<br/>
+    Programming Lead - Brock Blaha<br/>
+    Buisness Lead - Mya Brainard / Cody Rasch<br/>
+    Electronics Lead - Eddie Roots<br/>
+  challenge: Crescendo
+  robots: 
+  about: > #update
+
 - year: 2022-2023
-  image: /assets/images/2023.jpg
+  image: /assets/images/teams/2023.jpg
   leadership: >
     Captain - Frederick Ribolzi<br/>
     Mechanical Lead - Frederick Ribolzi<br/>
@@ -27,7 +39,7 @@
     Assistant Captain - Carter Smith<br/> 
   challenge: Infinite Recharge
   robots: 
-  about: > #update
+  about: >
     Fun fact! due to the COVID-19 pandemic, both championships were cancelled this year
    
 

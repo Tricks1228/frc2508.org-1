@@ -20,6 +20,22 @@ body {
   visibility: hidden;
 }
 
+.container-resources {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+.centered-div-resources {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+}
+
+.centered-div-row {
+  display: flex;
+  gap: 20px;
+}
 
 /* Footer */
 

@@ -11,7 +11,8 @@ New features, suggestions, and existing bugs should be tracked on the [Github is
 1. Install Ruby (use http://rubyinstaller.org for Windows) (Requires ruby version 2.6.6-2)
 2. Clone this repository.
 3. Navigate to the root directory of this repository in a command prompt.
-4. Type `bundle install` (you may need `gem install bundle` first)
+4. Installing the correct bundler might be necessary which can be done with `gem install bundler:2.4.21`
+5. Type `bundle install` (you may need `gem install bundle` first)
 
 ### Run Website Locally
 

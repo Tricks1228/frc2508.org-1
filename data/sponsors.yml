@@ -1,10 +1,3 @@
-#- name: Partnership Plan
-#  url: http://www.partnershipplan.org/
-#  image: /assets/images/brands/PartnershipPlanLogo.png
-#  about: >
-#    The Partnership Plan is a non-profit organization dedicated to enhancing learning opportunities through grants given to teachers and organizations.  
-#  rank: 1
-
 - name: 3M
   url: http://www.3m.com
   image: /assets/images/brands/3MLogo.png
@@ -15,56 +8,59 @@
     3M products are available for purchase through distributors and retailers in more than 200 countries 
     and/or colonies, and many 3M products are available online directly from the company.
 
-  name: PMMI
+- name: PMMI
   url: https://www.pmmi.org
   image: /assets/images/brands/pmmi.jpg
   about: > 
     With over 800 members, PMMI is a trade association whose companies distribute packaging containers, supplies, machinery, and machinery parts.
 
-  name: Delta ModTech
+- name: Delta ModTech
   url: https://www.deltamodtech.com/
   image: /assets/images/brands/deltaModTech.jpg
   about: >
     Delta ModTech is a manufacturing solutions company. They specialize in machinery for web converting and packaging, RFID, custom automation machinery, and more. They are located in Coon Rapids, Minnesota, and their machines are comprised of modules.
   
-  name: Anderson Corporation
-  url: https://www.andersenwindows.com/
-  image: /assets/images/brands/andersonWindows.png
-  about: >
-    As the first window and patio door manufacturer in the U.S. to earn the seal of approval from Green Seal, the Anderson Corporation manufacture and market windows and doors for commercial, residential, and auto glass. They have over 30 locations, with their headquarters located in Bayport, Minnesota. .
-  
-  name: Medtronic
+- name: Medtronic
   url: https://www.automationinc.com/
   image: /assets/images/brands/Medtronic.png
   about: >
     Medtronic is a medical device company dedicated to creating better health access for the world.
   
-  name: Stillwater Glass
+- name: Stillwater Glass
   url: https://stillwaterglass.com/
   image: /assets/images/brands/StillwaterGlass.png
   about: >
     Stillwater Glass is a commercial, residential, and auto glass mirror shop located in St. Croix Valley. They are dedicated to providing the best quality glass for their customers.
+
+- name: Partnership Plan
+  url: http://www.partnershipplan.org/
+  image: /assets/images/brands/PartnershipPlanLogo.png
+  about: >
+    The Partnership Plan is a non-profit organization dedicated to enhancing learning opportunities through grants given to teachers and organizations.  
+
+- name: Aerojet Rocketdyne
+  url: https://www.l3harris.com/company/aerojet-rocketdyne
+  image: /assets/images/brands/aerojetLogo.png
+  about: >
+    Aerojet Rocketdyne is an aerospace and defense company specializing in propulsion systems for national security, space exploration, and other commercial uses.
   
 #- name: Culvers
 #  url: 
 #  image: /assets/images/brands/culvers.png
 #  about: >
 #    With 700 locations, Culvers is a primarily Midwestern fast-food chain known for its custard, burgers, and cheese curds. 
-#  rank: 5
 #
 #- name: Arby’s
 #  url: https://www.arbys.com
 #  image: /assets/images/brands/arbys.png
 #  about: >
 #    Arby’s is the second largest sandwich chain, according to Food & Wine in the October 2017 issue. They are known for their sandwiches, but they also offer sides, shakes, and salads.
-#  rank: 5
 #
 #- name: Kowalski's Markets
 #  url: https://www.kowalskis.com
 #  image: /assets/images/brands/kowalskis.png
 #  about: >
 #    Kowalski’s Market is a midwestern grocery store chain carrying a wide variety of every day & specialty items, focusing on local producers.
-#  rank: 5
 #
 # - name: Polaris
 #   url: http://www.polaris.com/en-us/home.aspx
@@ -89,3 +85,9 @@
 #     VistaTek is a family-owned manufacturing company located in Stillwater, MN. The company’s state-of-the-art 
 #     software and in-house technologies allow it to efficiently assist customers with small to large projects. 
 #     Furthermore, VistaTek’s expert staff help customers get their products to the market as quickly and cost-efficiently as possible.
+
+#- name: Anderson Corporation
+#  url: https://www.andersenwindows.com/
+#  image: /assets/images/brands/andersonWindows.png
+#  about: >
+#    As the first window and patio door manufacturer in the U.S. to earn the seal of approval from Green Seal, the Anderson Corporation manufacture and market windows and doors for commercial, residential, and auto glass. They have over 30 locations, with their headquarters located in Bayport, Minnesota. .

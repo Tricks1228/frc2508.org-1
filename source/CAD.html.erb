@@ -1,0 +1,27 @@
+<% content_for :title, "CAD" %>
+
+<% data.cad.each do |cad| %>
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="page-header">
+        <h2>
+          <%= cad.name %>
+          <span class="pull-right"><%= cad.year %></span>
+        </h2>
+      </div>
+
+      <div class="model">
+        <%= cad.name%> Model PH
+        
+      </div>
+
+      <div class="link">
+        <h4>
+          <a href ="Test" download="<%= cad.link%>">
+            Test
+            </a>
+        </h4>
+      </div>
+    </div>
+  </div>
+<% end %>
